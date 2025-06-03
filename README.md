@@ -9,9 +9,9 @@ Tweet trend lines with detailed filtering
 Conditional visual display based on custom logic
 
 ## 🛠️ Tools Used
-Power BI
-DAX (Data Analysis Expressions)
-Power Query Editor
+-Power BI
+-DAX (Data Analysis Expressions)
+-Power Query Editor
 ## ✅ Key Tasks Implemented
 🔹 Task 1: Time-Filtered Impressions & Engagement
 Goal: Show a visual of average engagement rate and total impressions
@@ -41,8 +41,8 @@ Character count > 20
 Tweets without the letter 'C'
 
 ## 🚀 How to Run
-Clone the repo
-Open TwitterAnalytics.pbix in Power BI Desktop
-Ensure dataset is connected or imported
-Interact with the filters and visuals
+-Clone the repo
+-Open TwitterAnalytics.pbix in Power BI Desktop
+-Ensure dataset is connected or imported
+-Interact with the filters and visuals
 
