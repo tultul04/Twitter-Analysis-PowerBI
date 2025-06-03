@@ -1,6 +1,6 @@
 # Twitter-Analysis-PowerBI
 A data visualization project built using Power BI to analyze Twitter data and extract insights such as engagement trends, media performance, and tweet behavior under custom conditions.
-📊 Project Overview
+#📊 Project Overview
 This dashboard helps uncover patterns and performance metrics from Twitter data. It includes:
 Total and average engagement metrics
 Time-based tweet performance analysis
@@ -8,11 +8,11 @@ Media views vs. media engagement correlation
 Tweet trend lines with detailed filtering
 Conditional visual display based on custom logic
 
-🛠️ Tools Used
+#🛠️ Tools Used
 Power BI
 DAX (Data Analysis Expressions)
 Power Query Editor
-✅ Key Tasks Implemented
+#✅ Key Tasks Implemented
 🔹 Task 1: Time-Filtered Impressions & Engagement
 Goal: Show a visual of average engagement rate and total impressions
 Conditions:
@@ -40,7 +40,7 @@ Odd tweet dates
 Character count > 20
 Tweets without the letter 'C'
 
-🚀 How to Run
+#🚀 How to Run
 Clone the repo
 Open TwitterAnalytics.pbix in Power BI Desktop
 Ensure dataset is connected or imported
