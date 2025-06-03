@@ -11,7 +11,7 @@ Conditional visual display based on custom logic
 ## 🛠️ Tools Used
 - [Power BI]
 - [DAX]
--[Power Query Editor]
+- [Power Query Editor]
 ## ✅ Key Tasks Implemented
 🔹 Task 1: Time-Filtered Impressions & Engagement
 Goal: Show a visual of average engagement rate and total impressions
@@ -42,7 +42,7 @@ Tweets without the letter 'C'
 
 ## 🚀 How to Run
 - [Clone the repo]Clone the repo
-- [Open TwitterAnalytics.pbix in Power BI Desktop] (#Open TwitterAnalytics.pbix in Power BI Desktop)
--Ensure dataset is connected or imported
--Interact with the filters and visuals
+- [Open TwitterAnalytics.pbix in Power BI Desktop] 
+- [Ensure dataset is connected or imported]
+
 
